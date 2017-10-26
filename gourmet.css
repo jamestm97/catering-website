@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#gourmet {
+    color: black;
+    font-family: 'Playfair Display';
+    font-size: 1.5em;
+}
+
+div a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Playfair Display';
+    font-size: 1.3em;
+}
+
+#navShadow {
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3); 
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+    max-height: 750px;
+    max-width: 1440px;
+}
+
+.caption {
+    position: absolute;
+    top: 76%;
+    left: 50px;
+    width: 100%;
+    font-size: 2.5em;
+    font-family: 'Playfair Display';
+}
+
+#about {
+    margin-top: 2em;
+    font-family: 'Playfair Display';
+}
+
+.about-heading {
+    padding-bottom: 1em;
+}
+
+#tradition {
+    letter-spacing: 4px;
+}
+
+#about-image {
+    border-radius: 50px;
+    opacity: .7;
+}
+
+hr {
+    padding-bottom: 1.5em;
+}
+
+#menu {
+    padding-bottom: 1.5em;
+    font-family: 'PlayFair Display';
+}
+
+#menuImg {
+    opacity: .7;
+    border-radius: 50px;
+}
+
+.menu-item {
+    padding-bottom: .5em;
+    letter-spacing: .1em;
+    font-family: 'PlayFair Display';
+}
+
+.bread {
+    padding-bottom: 1.5em;
+}
+
+.honey {
+    padding-bottom: 1.5em;
+}
+
+.waffle {
+    padding-bottom: 1.5em;
+}
+
+.eggs {
+    padding-bottom: 1.5em;
+}
+
+.pancakes {
+    padding-bottom: 1.5em;
+}
+
